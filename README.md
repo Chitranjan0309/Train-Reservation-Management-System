@@ -2,7 +2,7 @@
 This is a simple Train Reservation System project built using C/C++ (or your language). It allows users to book, view, and cancel train tickets through a basic console-based interface.
 
 🔧 Features
-*✅ Book a train ticket
+**✅ Book a train ticket
 *📄 View booking details
 *❌ Cancel a reservation
 *🔍 Check train availability
